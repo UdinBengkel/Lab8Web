@@ -40,7 +40,7 @@ koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
 <img src="gambar/7.png" width="300"/>
 
 #### 2. Membuat file index untuk menampilkan data (Read)
-<pre> ```php
+```php
 include("koneksi.php");
 // query untuk menampilkan data
 $sql = 'SELECT * FROM data_barang';
@@ -89,7 +89,7 @@ $result = mysqli_query($conn, $sql);
     </table>
 </body>
 </html>
-``` </pre>
+```
 <img src="gambar/8.png" width="500"/>
 
 #### 3. Menambah Data (Create)
