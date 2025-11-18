@@ -11,7 +11,7 @@
 <img src="gambar/4.png" width="300"/>
 
 ### 3. Menambahkan Data
-<img src="gambar/5.png" width="300"/>
+<img src="gambar/5.png" width="500"/>
 
-Hasil:
+### Hasil:
 <img src="gambar/6 (2).png" width="500"/>
