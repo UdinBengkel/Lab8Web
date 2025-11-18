@@ -36,4 +36,5 @@ if ($conn == false)
 ```
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan
 koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
+
 <img src="gambar/7.png" width="300"/>
